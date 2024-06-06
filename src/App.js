@@ -1,7 +1,7 @@
 import './App.css';
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
-import { Container, Typography, TextField, List, ListItem, ListItemText } from '@mui/material';
+import { Container, Typography, List } from '@mui/material';
 import ListItemComponent from './Components/ListItem';
 import SearchBar from './Components/SearchBar';
 
